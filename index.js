@@ -1,6 +1,6 @@
 // Variáveis para armazenar o nome e a quantidade de experiência (XP) do herói
-let nomeHeroi = "Aragorn";
-let experiencia = 7500; // Exemplo de XP, pode ser alterado
+let nomeHeroi = "Tião";
+let experiencia = 9007; // Exemplo de XP, pode ser alterado
 
 // Variável para armazenar o nível do herói
 let nivel;
